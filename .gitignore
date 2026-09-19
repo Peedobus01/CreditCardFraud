@@ -1,0 +1,4 @@
+*.csv
+clean_notebook.py
+__pycache__/
+.ipynb_checkpoints/
